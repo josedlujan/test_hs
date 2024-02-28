@@ -43,7 +43,7 @@ dependencies:
   
   flutter:
   
-    sdk: flutter
+  sdk: flutter
     
   flutter_bloc: ^8.1.3
   
@@ -63,11 +63,20 @@ dependencies:
   
 
 dev_dependencies:
+
   build_runner: ^2.4.8
+  
   floor_generator: ^1.4.2
+  
   flutter_lints: ^2.0.0
+  
   flutter_test:
-    sdk: flutter
+  
+  sdk: flutter
+    
   retrofit_generator: ^8.0.6
+  
   bloc_test: ^9.1.6
+  
   mockito: ^5.4.4
+  
